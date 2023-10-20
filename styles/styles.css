@@ -111,6 +111,7 @@ ul {
   color: var(--beauty-landing-3);
 }
 
+/*Main */
 .section-title {
   font-family: Play, sans-serif;
   font-size: 64px;
@@ -125,6 +126,11 @@ ul {
 .accent-zone {
   text-transform: capitalize;
   color: var(--beauty-landing-1);
+}
+
+.accent-paragraf {
+  font-weight: 600;
+  text-transform: capitalize;
 }
 
 .advantages-paragraf {
