@@ -51,6 +51,10 @@ body {
   color: var(--beauty-landing-2);
 }
 
+/* Header */
+.header {
+  display: inline-flex;
+}
 .logo {
   color: var(--beauty-landing-1);
   font-family: Play;
@@ -143,6 +147,7 @@ ul {
   line-height: 1.72;
 }
 
+/* FOOTER */
 footer {
   background-color: var(--beauty-landing-2);
   font-size: 16px;
