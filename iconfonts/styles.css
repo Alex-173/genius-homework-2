@@ -1,4 +1,3 @@
-
 /* Fonts */
 /* roboto */
 @font-face {
@@ -59,7 +58,6 @@ body {
 .section {
   width: 1440px;
   margin: 0 auto;
-  }
 
 /* Header */
 .header {
@@ -70,6 +68,7 @@ body {
   font-family: Play;
   font-size: 22px;
   font-weight: 700;
+>>>>>>> cece813d98a2a7f2cb803e8eff9b06a7c85993ef:styles.css
 }
 
 a {
@@ -158,7 +157,9 @@ ul {
   margin: 0;
 }
 
+.hero-title-container {
 
+}
 .button-container {
   gap: 14px;
   width: 238px;
