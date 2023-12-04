@@ -175,7 +175,7 @@ ul {
   margin: 0px;
   width: 529px;
   color: var(--beauty-landing-1);
-  font-family: Play;
+  font-family: Play, sans-serif;
   font-size: 140px;
   font-weight: 700;
   line-height: 0.87;
