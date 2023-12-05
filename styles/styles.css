@@ -155,7 +155,8 @@ ul {
   padding: 0;
 }
 .hero-paragraf {
-  margin: 0px 0px 16px 0px;
+  margin-top: 0px;
+  margin-bottom: 16px;
 
 }
 
